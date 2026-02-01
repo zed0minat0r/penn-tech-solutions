@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60">
+  <rect x="15" y="15" width="30" height="8" rx="2" fill="#00A94F"/>
+  <rect x="15" y="26" width="30" height="8" rx="2" fill="#00A94F"/>
+  <rect x="15" y="37" width="30" height="8" rx="2" fill="#00A94F"/>
+  <text x="55" y="35" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#00A94F">Nimble</text>
+</svg>

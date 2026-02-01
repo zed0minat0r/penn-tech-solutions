@@ -1,0 +1,23 @@
+GitHub Repository Setup Instructions
+=====================================
+
+To push this project to GitHub:
+
+1. Create a new repository on GitHub (https://github.com/new)
+   - Repository name: Penn-Tech-Solutions (or your preferred name)
+   - Set to Private or Public as desired
+   - Do NOT initialize with README, .gitignore, or license (already exists locally)
+
+2. Copy your repository URL (e.g., https://github.com/yourusername/Penn-Tech-Solutions.git)
+
+3. Run these commands in the project folder:
+
+   git remote add origin YOUR_REPO_URL_HERE
+   git push -u origin main
+   git push --tags
+
+Current Version: v1.0 - "Penn Tech Solutions Website V 1.0"
+
+=====================================
+Project: Penn Tech Solutions Website
+Created: January 2026

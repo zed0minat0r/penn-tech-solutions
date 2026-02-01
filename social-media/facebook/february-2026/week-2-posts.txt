@@ -1,0 +1,94 @@
+================================================================================
+WEEK 2 - FEBRUARY 10-14, 2026
+================================================================================
+
+--------------------------------------------------------------------------------
+MONDAY, FEB 10 - IT Tip: Backups
+Schedule for: 9:00 AM
+--------------------------------------------------------------------------------
+
+💾 IT Tip #2: The 3-2-1 Backup Rule
+
+If your computer died right now, would you lose everything?
+
+For small businesses, data loss isn't just inconvenient—it can be catastrophic. 60% of small businesses that lose their data shut down within 6 months.
+
+The 3-2-1 Rule protects you:
+3️⃣ Keep 3 copies of your data
+2️⃣ Store on 2 different types of media
+1️⃣ Keep 1 copy offsite (cloud backup!)
+
+What should you back up?
+• Customer databases
+• Financial records
+• Emails and documents
+• Point of sale data
+• Everything you can't afford to lose
+
+We set up automated cloud backups that run in the background—you'll never think about it until you need it.
+
+🛡️ Don't wait for disaster. Let's talk backup solutions.
+
+#DataBackup #SmallBusinessTips #DisasterRecovery #ITSupport #PennTechSolutions
+
+[IMAGE: Visual of 3-2-1 rule with icons, dark theme with blue accents]
+
+--------------------------------------------------------------------------------
+WEDNESDAY, FEB 12 - Service Spotlight: Network Infrastructure
+Schedule for: 12:00 PM
+--------------------------------------------------------------------------------
+
+🌐 Is Your Business Network Holding You Back?
+
+Slow WiFi. Dropped connections. That one corner of the office with no signal.
+
+Sound familiar?
+
+Your network is the backbone of everything:
+• Credit card processing
+• Cloud apps and email
+• VoIP phones
+• Security cameras
+• Customer WiFi
+
+We build networks sized for small business:
+✅ Business-grade firewalls (not consumer routers!)
+✅ Managed switches for reliability
+✅ Enterprise WiFi that actually covers your space
+✅ Clean, professional cabling
+
+No enterprise complexity. No inflated pricing. Just solid infrastructure that works.
+
+📍 Serving Montgomery, Bucks, Chester & Delaware Counties
+
+#NetworkInfrastructure #BusinessWiFi #SmallBusinessIT #PhillyBusiness #PennTechSolutions
+
+[IMAGE: Clean network rack or modern router setup, professional aesthetic]
+
+--------------------------------------------------------------------------------
+FRIDAY, FEB 14 - Valentine's Day Post
+Schedule for: 5:00 PM
+--------------------------------------------------------------------------------
+
+💝 Happy Valentine's Day from Penn Tech Solutions!
+
+Here's what we LOVE about small business owners:
+
+❤️ Your hustle and determination
+❤️ How you support your local community
+❤️ The way you adapt and overcome challenges
+❤️ Your trust in us to keep your tech running
+
+And here's what we DON'T love:
+💔 Ransomware attacks
+💔 Surprise IT bills
+💔 "Have you tried turning it off and on again?" support
+💔 Tech that slows you down
+
+You deserve an IT partner who cares about YOUR success.
+
+Happy Valentine's Day, Philly! 🏙️❤️
+
+#ValentinesDay #SmallBusinessLove #PhillyBusiness #ITSupport #PennTechSolutions
+
+[IMAGE: Hearts with tech icons, playful but professional, Penn Tech branding]
