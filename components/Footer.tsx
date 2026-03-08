@@ -56,9 +56,9 @@ export default function Footer() {
                 <Mail className="w-5 h-5 text-primary-500" />
                 info@penntechsolutions.com
               </a>
-              <a href="tel:+12155551234" className="flex items-center gap-3 text-dark-400 hover:text-white transition-colors">
+              <a href="tel:+12674165810" className="flex items-center gap-3 text-dark-400 hover:text-white transition-colors">
                 <Phone className="w-5 h-5 text-primary-500" />
-                (215) 555-1234
+                (267) 416-5810
               </a>
               <div className="flex items-center gap-3 text-dark-400">
                 <MapPin className="w-5 h-5 text-primary-500" />

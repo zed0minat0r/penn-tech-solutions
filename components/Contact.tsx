@@ -16,8 +16,8 @@ const contactInfo = [
   {
     icon: Phone,
     label: 'Phone',
-    value: '(215) 555-1234',
-    href: 'tel:+12155551234',
+    value: '(267) 416-5810',
+    href: 'tel:+12674165810',
     gradient: 'from-green-500 to-emerald-500',
   },
   {

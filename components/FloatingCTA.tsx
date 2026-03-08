@@ -60,7 +60,7 @@ function getBotResponse(message: string): string {
   }
 
   if (lowerMessage.includes('schedule') || lowerMessage.includes('consultation') || lowerMessage.includes('meeting') || lowerMessage.includes('call')) {
-    return "Great! You can reach us at (215) 555-1234 or fill out the contact form on our website. We offer free consultations and can meet in person, by phone, or video call. What works best for you?"
+    return "Great! You can reach us at (267) 416-5810 or fill out the contact form on our website. We offer free consultations and can meet in person, by phone, or video call. What works best for you?"
   }
 
   if (lowerMessage.includes('location') || lowerMessage.includes('where') || lowerMessage.includes('area') || lowerMessage.includes('philly') || lowerMessage.includes('philadelphia')) {
@@ -135,7 +135,7 @@ export default function FloatingCTA() {
 
   const contactOptions = [
     { icon: Bot, label: 'Chat Bot', action: openChatBot, color: 'from-cyan-500 to-teal-500' },
-    { icon: Phone, label: 'Call Us', href: 'tel:+12155551234', color: 'from-green-500 to-emerald-500' },
+    { icon: Phone, label: 'Call Us', href: 'tel:+12674165810', color: 'from-green-500 to-emerald-500' },
     { icon: Mail, label: 'Email', href: '#contact', color: 'from-primary-500 to-blue-500' },
     { icon: Calendar, label: 'Schedule', href: '#contact', color: 'from-purple-500 to-pink-500' },
   ]
